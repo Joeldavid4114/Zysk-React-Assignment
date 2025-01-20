@@ -10,7 +10,7 @@ const Navbar = () => {
       {/* Header Section */}
       <header className="header">
         <div className="logo">
-          <img  className= 'logos' src="/assets/images zysk.png" alt="Zysk logo" /></div>
+          <img  className= 'logos' src="assets/images zysk.png" alt="Zysk logo" /></div>
         <nav className="navbar">
           <a href="#home">Home</a>
           <a href="#products">Products
@@ -19,7 +19,7 @@ const Navbar = () => {
           <a href="#pricing">Pricing</a>
         </nav>
         <div className="profile">
-          <img src="/assets/prof.png" alt="Profile" className="profile-icon" />
+          <img src="assets/prof.png" alt="Profile" className="profile-icon" />
         </div>
       </header>
     </div>
